@@ -1,3 +1,3 @@
 #!/bin/bash
 
-wget https://pjreddie.com/media/files/yolov3.weights
+curl -o yolov3.weights https://pjreddie.com/media/files/yolov3.weights
